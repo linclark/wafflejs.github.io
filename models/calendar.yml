@@ -156,11 +156,11 @@
         type: Talk
         emoji: 🎉
         title: The whole web at maximum FPS
-        description: TBD
+        description: "How can you get the browser to render web pages at maximum FPS, whether that's 60 frames per second or 120? Make it like a game engine. In this talk, I'll explain how we're making this happen in Firefox with WebRender."
         person:
           name: Lin Clark
           twitter: linclark
-          pronouns: # examples: she/her, they/them, he/him  (bit.ly/pronoun-faq)
+          pronouns: she/her or they/them
           
     - 9:00 PM: Speaker TBA
 
